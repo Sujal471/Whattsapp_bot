@@ -1,4 +1,4 @@
-# Whattsapp_bot
+# Whatsapp_bot
 # 📱 WhatsApp Task Bot with Google Tasks & Supabase Integration
 
 This project is a **WhatsApp chatbot** that allows users to:
